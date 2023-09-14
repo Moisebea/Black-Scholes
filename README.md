@@ -1,1 +1,1 @@
-# Black-Scholes
+# Black-Scholes formula to calculate options prices 
